@@ -32,3 +32,9 @@ overall comparison of the relationship between Sales and Advertising Expenses fo
 
 comparison between Profit Margin and Gross Margin for all regions - it is noted that for Yangon (Myanmar), there are multiple dips in profit margin, specifically in the May - June period.
 
+
+
+#### Checkpoints
+
+* Completed Sales vs Advertising Expenses diagram for Region 4 + Cross-Region
+* Completed Profit Margin vs Gross Margin diagram for Region 4 + Cross-Region
