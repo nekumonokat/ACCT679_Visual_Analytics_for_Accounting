@@ -16,17 +16,79 @@ Tableau Group Project Repository (Progress Checker)
 
 * \[VALUES] Total Sales 2024 + Year on Year Sales Growth
 
-&nbsp;   - Total Sales: Sales Value with Filter on Sales Year (2024)
+    - Total Sales: Sales Value with Filter on Sales Year (2024)
 
-&nbsp;   - YoY Sales Growth: (Sales '24 - Sales '23) / (Sales '23) with Sales Year (2023 - 2024)
+    - YoY Sales Growth: (Sales '24 - Sales '23) / (Sales '23) with Sales Year (2023 - 2024)
 
 * \[PIE CHART] Region 4 2024 Volume of Sales per Product
 
-&nbsp;   - Percent calculated using "Quick Table Calculation" > "Percent of Total" on Sale Value
+    - Percent calculated using "Quick Table Calculation" > "Percent of Total" on Sale Value
 
-&nbsp;   - Coloured by Product Type, Hues selected
+    - Coloured by Product Type, Hues selected
 
-&nbsp;   - Commented on Best Product + Best Product Type
+    - Commented on Best Product + Best Product Type
+
+* \[LINE GRAPH] Sales across Region (2020 - 2025): Prediction model
+
+    - Tentatively used Tableau Forecasting to display 2025 prediction
+
+
+
+2 PROFITABILITY + ADVERTISING INSIGHTS
+
+* \[LINE GRAPH] Gross Profit Margin \& Net Profit Margin on same graph
+
+    - Gross Profit Margin (%): (SUM(\[Sales]) - SUM(\[Cost of Goods Sold])) / SUM(\[Sales])\*100
+
+    - Net Profit Margin (%): (SUM(\[Net Income]) / SUM(\[Sales]))\*100
+
+* \[LINE GRAPH] Advertising Expenses vs Sales
+
+    - Analyse how sales increase then adv increase (commentary)
+
+* \[LINE GRAPH] Most Profitable Month Trend Line (Sales + Units + Sales / Units)
+
+    - State profit is stable (commentary)
+
+* \[STACKED BARCHART] Unit Sold Breakdown by Products
+
+    - Add commentary on best performing products? (commentary)
+
+* \[BAR CHART] Sales Breakdown (July and Dec Sales + month before advertising)
+
+    - Add commentary on efficacy of advertising sales
+
+
+
+3 OTHER REGION COMPARISON
+
+* \[LINE GRAPH] All Region Net Profit Margin
+
+    - Region 4 colouring to highlight, add filter - applied to all 3 charts, add comments
+
+* \[LINE GRAPH] All Region Expenses
+
+    - Region 4 colouring to highlight, add comments
+
+* \[STACKED BARCHART] All Region Share of Sales (%)
+
+    - Region 4 colouring to highlight, add comments
+
+
+
+4 PRODUCT CATEGORY INSIGHTS
+
+* \[BAR CHART] Sales Value by Product Type
+
+    - Filter is applied to all charts to ensure completeness - annotated
+
+* \[BAR CHART] Sales Units Sold by Product Type: Add annotation
+
+    - Annotated, need comments maybe
+
+* \[BAR CHART] Best Product Category by Value: Add annotation
+
+    - Needs commentary
 
 
 
@@ -42,9 +104,30 @@ Tableau Group Project Repository (Progress Checker)
 
 2 PROFITABILITY + ADVERTISING INSIGHTS
 
+* \[DONE]\[LINE GRAPH] Gross Profit Margin \& Net Profit Margin on same graph
+* \[DONE]\[LINE GRAPH] Advertising Expenses vs Sales
+* \[DONE]\[LINE GRAPH] Most Profitable Month Trend Line (Sales + Units + Sales / Units)
+* \[DONE]\[STACKED BARCHART] Unit Sold Breakdown by Products
+* \[DONE]\[BAR CHART] Sales Breakdown (July and Dec Sales + month before advertising)
+
+
+
 3 OTHER REGION COMPARISON
 
+* \[DONE]\[LINE GRAPH] All Region Net Profit Margin: Highlight region 4, add annotation
+* \[DONE]\[LINE GRAPH] All Region Expenses: Highlight region 4, add annotation
+* \[DONE]\[STACKED BARCHART] All Region Share of Sales (%): Highlight region 4, add annotation
+* \[LINE GRAPH] Forecast of Sales: Prediction Model
+
+
+
 4 PRODUCT CATEGORY INSIGHTS
+
+* \[DONE]\[BAR CHART] Sales Value by Product Type: Add annotation, add filter applied to all
+* \[DONE]\[BAR CHART] Sales Units Sold by Product Type: Add annotation
+* \[DONE]\[BAR CHART] Best Product Category by Value: Add annotation
+
+
 
 5 PRODUCT DEEP-DIVE: N005
 
