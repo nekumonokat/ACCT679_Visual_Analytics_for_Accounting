@@ -30,7 +30,7 @@ Tableau Group Project Repository (Progress Checker)
 
 * \[LINE GRAPH] Sales across Region (2020 - 2025): Prediction model
 
-    - Tentatively used Tableau Forecasting to display 2025 prediction
+    - Completed prediction model using actual prediction model data calculated
 
 
 
@@ -56,7 +56,7 @@ Tableau Group Project Repository (Progress Checker)
 
 * \[BAR CHART] Sales Breakdown (July and Dec Sales + month before advertising)
 
-    - Add commentary on efficacy of advertising sales
+    - Add commentary that November advertisement is more effective
 
 
 
@@ -83,12 +83,27 @@ Tableau Group Project Repository (Progress Checker)
     - Filter is applied to all charts to ensure completeness - annotated
 
 * \[BAR CHART] Sales Units Sold by Product Type: Add annotation
-
-    - Annotated, need comments maybe
-
 * \[BAR CHART] Best Product Category by Value: Add annotation
 
-    - Needs commentary
+    - Need to add commentary
+
+
+
+5 PRODUCT DEEP-DIVE: N005
+
+* \[BAR CHART] Sales by Unit
+
+&nbsp;   - Highlighted highest units sold, added filter
+
+* \[BAR CHART] Average Sales Price per Unit by Unit
+
+&nbsp;   - Highlighted highest average sales
+
+* \[HEATMAP] N005 Sales Heatmap: Highlight parts of no sales / high sales
+
+&nbsp;   - Need to add commentary
+
+* \[LINE GRAPH] N005 Spike in Units Sold: Highlight dip to spike could be due to anomaly
 
 
 
@@ -97,7 +112,7 @@ Tableau Group Project Repository (Progress Checker)
 1 EXECUTIVE SUMMARY
 
 * \[DONE]\[VALUES] Total Sales 2024 + Year on Year Sales Growth
-* \[LINE GRAPH] Sales across Region (2020 - 2025): Prediction model
+* \[DONE]\[LINE GRAPH] Sales across Region (2020 - 2025): Prediction model
 * \[DONE]\[PIE CHART] Region 4 2024 Volume of Sales per Product
 
 
@@ -123,11 +138,15 @@ Tableau Group Project Repository (Progress Checker)
 
 4 PRODUCT CATEGORY INSIGHTS
 
-* \[DONE]\[BAR CHART] Sales Value by Product Type: Add annotation, add filter applied to all
-* \[DONE]\[BAR CHART] Sales Units Sold by Product Type: Add annotation
+* \[DONE]\[BAR CHART] Sales Value by Product Type: Add filter applied to all
+* \[DONE]\[BAR CHART] Sales Units Sold by Product Type
 * \[DONE]\[BAR CHART] Best Product Category by Value: Add annotation
 
 
 
 5 PRODUCT DEEP-DIVE: N005
 
+* \[DONE]\[BAR CHART] Sales by Unit
+* \[DONE]\[BAR CHART] Average Sales Price per Unit by Unit
+* \[DONE]\[HEATMAP] N005 Sales Heatmap: Highlight parts of no sales / high sales
+* \[DONE]\[LINE GRAPH] N005 Spike in Units Sold: Highlight dip to spike could be due to anomaly
